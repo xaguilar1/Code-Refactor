@@ -1,4 +1,4 @@
-# homework1-refactor
+# Code-refactor
 
 * this is my first homework,
 
