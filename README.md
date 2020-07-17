@@ -14,4 +14,4 @@ What i did:
 -made the content in each box flow together (such as main content and aside content being adjacent to each other when showing full screen & not one section shorter than the other) *im probably OCD
 -made all top links reference their section (there was one that didnt at first)
 
-
+<img width="1280" alt="image-1" src="https://user-images.githubusercontent.com/65522080/87798820-7a9c7400-c81a-11ea-8bdf-72d5107b41a6.png">
