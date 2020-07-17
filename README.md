@@ -15,3 +15,6 @@ What i did:
 -made all top links reference their section (there was one that didnt at first)
 
 <img width="1280" alt="image-1" src="https://user-images.githubusercontent.com/65522080/87798820-7a9c7400-c81a-11ea-8bdf-72d5107b41a6.png">
+
+
+<img width="1280" alt="image-2" src="https://user-images.githubusercontent.com/65522080/87799834-aff59180-c81b-11ea-935f-f6a84f6ffaba.png">
